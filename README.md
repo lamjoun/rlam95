@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @rlam95
-- 👀 I’m interested in ML Algo
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on ML
-- 📫 How to reach me rlamjoun@gmail.com
+- 👋 Hi, I’m Rachid LAMJOUN
+- 👀 I am interested in all concepts and algorithms of AI & Machine Learning
+- 💞️ I’m looking to collaborate on Machine Learning or AI Projects
+- 📫 How to reach me: rlamjoun@gmail.com
 
 <!---
 rlam95/rlam95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
